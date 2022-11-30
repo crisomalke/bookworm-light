@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/bookworm-light/"
-title = "Bookworm - Personal Blog Template"
+baseURL = "https://whatcord.tk"
+title = "WhatCord - Your Questions, Our Answers"
 theme = "bookworm-light"
 # post pagination
 paginate = "5"
@@ -86,7 +86,7 @@ search = true
 # main section
 mainSections = ["blog"]
 # copyright
-copyright = "Designed & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed & Developed By [Anjani Sharma](https://crisomalke.ga)"
 
 # Preloader
 [params.preloader]
@@ -96,7 +96,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Instagram feed
 [params.instafeed]
 enable = false
-instagram_user = "bookworm"
+instagram_user = "crisomalke"
 access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
 
 # Subscription
@@ -131,8 +131,8 @@ url = "contact/"
 weight = 4
   
 [[menu.main]]
-name = "Buy Premium"
-url = "https://gethugothemes.com/products/bookworm/"
+name = "Join us on Discord"
+url = "https://dscolink.ga/lab"
 weight = 5
 
 [[menu.main]]
