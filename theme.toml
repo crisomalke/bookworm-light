@@ -1,7 +1,7 @@
-name = "Bookworm"
+name = "WhatCord"
 license = "MIT"
-licenselink = "https://github.com/gethugothemes/bookworm-light/blob/master/LICENSE"
-description = "Bookworm is clean and modern Hugo blog theme focused on high speed and support muliple authors. Bookworm fits perfectly any kind of blog specially personal, photography, travel or biography blogs. Bookworm is fully responsive, Super fast and powered by Bootstrap."
+licenselink = "https://github.com/crisomalke/bookworm-light/blob/master/LICENSE"
+description = "WhatCord is the place for all of your questions related the discord. We provide answers of many questions and resources with the blog."
 homepage = "https://github.com/gethugothemes/bookworm-light/"
 demosite = "https://demo.gethugothemes.com/bookworm-light/"
 tags = ['blog', 'light', 'bootstrap', 'responsive', 'contact-form']
